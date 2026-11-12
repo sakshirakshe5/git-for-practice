@@ -1,4 +1,4 @@
-#this code is jsut for practice
+#this code is jsut for practicing the linter
 from flask import Flask, render_template
 app = Flask(__name__)
 
