@@ -1,4 +1,4 @@
-#this code is jsut for practicing the linter
+#this code is jsut for practicing the linter on github actions
 from flask import Flask, render_template
 app = Flask(__name__)
 
